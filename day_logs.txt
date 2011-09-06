@@ -1,0 +1,24 @@
+16/8/2010-Official start of the project
+---------------------------------------
+:: 20:15 ::
+	--Base classes have been decided to create a "pac man"-like maze game for research on path finding algorithms. The game_dev_docs.txt file will contain all the header files used in the project and the list of classes used in the project. I am starting to document whatever i am doing in the project in my own way,In form of a day log where I am going to write my thoughts and ideas while making the project. I am deciding to alot at the very least 6 hours daily for the project work,divided according to whatever schedule i have, fitting in all my social and day to day obligations.
+	I know enough OOP programming and C++ to start with my project, and i will learn new things during the time of project development.Today i am deciding to get done with the basic framework for the maze game.Specifically a class which has all the graphics rendering and a way a to edit and create a maze level outside the game. Also would like to get a framework algorithm for A* used with Genetic algorithm, though not in form of implementation but in pen paper.
+	So i am getting started with the work now will fill in the after thoughts when i finish today's work.
+	A to-do for today:-
+	1)Create basic framework of graphics rendering for the game.(edit:: Was done by 00:10)
+	2)Create a simple editor for the maze.(edit:: Postponed for tomorrow)
+	3)Create a basic A* algorithm with elements and tools used in the game.
+	-(edit:: Postponed for tomorrow)
+
+
+17/8/2010-Second day
+---------------------------------------
+:: 18:41 ::
+
+--Lot of work to be completed today and hours to be completed on the project. The editor and the basic A* algorithm to be worked for today.
+--Nothing productive has been done today except for learning things on how i would create a map
+
+21/8/2010
+----------------
+::13:07::
+--Today i am finishing a lot of work no matter what. Its been stupid how i am wasting a whole lot of time here. My social obligations are taking its toll on me now. So well from today i am deciding not to waste anymore time. I have to get sound technical skills as i am finishing college this year.

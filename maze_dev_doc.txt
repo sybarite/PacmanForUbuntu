@@ -1,0 +1,18 @@
+Headers/classes and the heirarchy used in the Maze project
+
+headers:-
+	-"game_graphics.h" (completed)
+	-- Header file which contains the defination of all the base graphics functions used
+	for the game.
+	
+	-"game_logic.h"	(incomplete)
+	-- Header file which contains all the defination of the logic used in the game
+	
+	-"game_ai.h" 	(incomplete)
+	--Header file which contains all the base AI logic present in the game.
+
+	-"map.h" 
+	--Header file to manipulate map objects which has the map to be placed on the screen.In 	simple terms a level.
+
+classes:-
+	The implementations of all the given header files
