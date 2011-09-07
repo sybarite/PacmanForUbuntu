@@ -1,7 +1,7 @@
 #ifndef ANIMATION_H_INCLUDED
 #define ANIMATION_H_INCLUDED
 #include "sprite.h"
-#include <Vector>
+#include <Vector.h>
 #include <stdio.h>
 class Animation
 {

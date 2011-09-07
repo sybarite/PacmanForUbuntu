@@ -12,8 +12,8 @@ as the parent class.
 
 #ifndef GAME_GRAPHICS_H_INCLUDED
 #define GAME_GRAPHICS_H_INCLUDED
-#include "SDL.h"
-#include "SDL_image.h"
+#include "SDL/SDL.h"
+#include "SDL/SDL_image.h"
 #include <string>
 class GAME_GRAPHICS
 {

@@ -1,0 +1,5 @@
+#ignoring the the debug folder
+/debug/
+.cproject
+.project
+.settings/org.eclipse.mylyn.taska.ui.prefs
