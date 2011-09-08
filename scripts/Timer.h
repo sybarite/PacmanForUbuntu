@@ -1,6 +1,6 @@
 #ifndef TIMER_H_INCLUDED
 #define TIMER_H_INCLUDED
-#include "SDL.h"
+#include "SDL/SDL.h"
 class Timer
 {
     private:

@@ -1,7 +1,7 @@
 #include "Test.h"
-#include "sprite.h"
-#include "Timer.h"
-#include "Animation.h"
+#include "graphics/sprite.h"
+#include "scripts/Timer.h"
+#include "animations/Animation.h"
 void Test::game_loop()
 {
     bool quit = false;
@@ -12,8 +12,8 @@ void Test::game_loop()
     GAME_GRAPHICS graphics(800,600,32);
     graphics.set_screen();
 
-    SDL_Surface* sheetright=graphics.load_image("monster.png");
-    SDL_Surface* sheetleft=graphics.load_image("monster.png");
+    SDL_Surface* sheetright=graphics.load_image("data/monster.png");
+    SDL_Surface* sheetleft=graphics.load_image("data/monster.png");
 
 
 

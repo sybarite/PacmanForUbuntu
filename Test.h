@@ -1,6 +1,6 @@
 #ifndef TEST_H_INCLUDED
 #define TEST_H_INCLUDED
-#include "game_graphics.h"
+#include "graphics/game_graphics.h"
 class Test
 {
 public:

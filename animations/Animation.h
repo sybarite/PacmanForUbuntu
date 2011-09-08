@@ -1,7 +1,7 @@
 #ifndef ANIMATION_H_INCLUDED
 #define ANIMATION_H_INCLUDED
-#include "sprite.h"
-#include <Vector.h>
+#include "../graphics/sprite.h"
+#include <vector>
 #include <stdio.h>
 class Animation
 {
@@ -26,6 +26,7 @@ public:
     //I am making this a vector since i don't want to limit the animation frames
     std::vector<SDL_Rect> rightAnimationClips;
     std::vector<SDL_Rect> leftAnimationClips;
+
 
     //The reference of the sprite which is to be animated
     Sprite* sprite;

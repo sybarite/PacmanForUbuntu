@@ -1,5 +1,5 @@
 //Author Sybarite
-//game_graphics.h
+//graphics/game_graphics.h
 /*
 This header file contains definations for a graphics base class which wil be used in the game.
 Containing all the base functions which can be inherited by other classes in the project. Also
