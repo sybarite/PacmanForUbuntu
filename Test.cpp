@@ -1,7 +1,5 @@
 #include "Test.h"
-#include "graphics/sprite.h"
-#include "scripts/Timer.h"
-#include "animations/Animation.h"
+
 void Test::game_loop()
 {
     bool quit = false;
@@ -37,8 +35,6 @@ void Test::game_loop()
 
     pacmanAnimation.insertClip(1,clipleft[0]);
     pacmanAnimation.insertClip(1,clipleft[1]);
-
-    pacmanAnimation.debug();
 
     //The event structure
     SDL_Event event;

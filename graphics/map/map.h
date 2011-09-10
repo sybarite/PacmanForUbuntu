@@ -2,7 +2,7 @@
 
 #ifndef MAP_H_INCLUDED
 #define MAP_H_INCLUDED
-#include "game_graphics.h"
+#include "../game_graphics.h"
 #include <string>
 #include <fstream>
 class Map

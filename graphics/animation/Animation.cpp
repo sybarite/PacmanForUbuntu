@@ -27,7 +27,7 @@ void Animation::insertClip(int direction,SDL_Rect r)
         printf("Adding clip \n");
         break;
     default:
-        ;
+        break;
     }
 }
 
